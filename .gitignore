@@ -1,14 +1,5 @@
-# Godot 4+ ignores
-*.godot/
-godot.cfg
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Backup files
-*.backup
-*.bak
-
-# Temporary files
-*.tmp
+# Include only the addons folder and necessary files
+* export-ignore
+!addons/ export-ignore
+!README.md export-ignore
+!LICENSE export-ignore
