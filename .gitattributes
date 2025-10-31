@@ -1,0 +1,8 @@
+# Only include the addons folder in exports
+/*
+!addons/
+addons/** export-ignore
+
+# Include necessary root files
+README.md export-ignore
+LICENSE export-ignore
