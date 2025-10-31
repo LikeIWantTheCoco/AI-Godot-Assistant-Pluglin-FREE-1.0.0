@@ -1,0 +1,14 @@
+# Godot 4+ ignores
+*.godot/
+godot.cfg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+
+# Temporary files
+*.tmp
